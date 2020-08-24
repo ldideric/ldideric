@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align=center>
+  Good morning!☀️
+</h2>
+<p align=center>
+  Hi! I'm Lietze from the Netherlands.<br>
+  I'm a beginning programmer studying at Codam, Amsterdam.<br>
+  Welcome to my profile!
+</p>
 
-<!--
-**ldideric/ldideric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.linkedin.com/in/lietze">
+        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a> -
+    <a href="https://www.instagram.com/lietze.225/">
+        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=swift&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=issues&show_icons=false" />
+</p>
