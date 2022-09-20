@@ -3,7 +3,7 @@
 </h2>
 <p align=center>
   Hi! I'm Lietze from the Netherlands.<br>
-  I'm a beginning programmer studying at Codam, Amsterdam.<br>
+  I'm a beginning programmer studying in Amsterdam.<br>
   Welcome to my profile!
 </p>
 
