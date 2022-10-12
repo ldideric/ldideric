@@ -16,5 +16,5 @@
     </a>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=swift&layout=compact" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ldideric&theme=dark&hide_border=true&count_private=true&hide=issues&show_icons=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=issues&show_icons=false" />
 </p>
