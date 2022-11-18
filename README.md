@@ -9,12 +9,9 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/lietze">
-        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img align="center" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png"/>
     </a> -
     <a href="https://www.instagram.com/lietze.225/">
-        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+        <img align="center" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" />
     </a>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=swift&layout=compact" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ldideric&theme=gradient&hide_border=true&count_private=true&hide=issues&show_icons=false" />
 </p>
